@@ -10,4 +10,7 @@
 3.	Login Page Assets
 •	Png files
 •	Svg files
+-------------------------------------------
+-------------------------------------------
+View inventory top 6 components committed
 
